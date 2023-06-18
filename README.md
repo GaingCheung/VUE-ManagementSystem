@@ -1,4 +1,4 @@
-# app
+# VUE Management System
 
 ## Project setup
 ```
